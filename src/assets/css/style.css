@@ -1,3 +1,7 @@
 body {
     background-color: red;
+    background-image: url(../images/fff.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
 }
