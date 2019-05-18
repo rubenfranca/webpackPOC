@@ -1,5 +1,5 @@
 import Person from './Person';
-import './assets/css/style.css';
+import './assets';
 import './modules/ModuleA';
 
 const Attending = new Person;
