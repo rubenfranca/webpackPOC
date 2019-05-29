@@ -5,3 +5,4 @@ import './modules/ModuleA';
 const Attending = new Person;
 
 console.log(Attending.hi());
+console.log('test');
