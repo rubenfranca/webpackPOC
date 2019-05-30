@@ -6,3 +6,4 @@ const Attending = new Person;
 
 console.log(Attending.hi());
 console.log('test');
+console.log('teste');
